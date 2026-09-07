@@ -8,8 +8,6 @@ Information Technology student with a strong interest in database systems, datab
 - 💻 Aspiring SQL Developer
 - 📚 Currently learning SQL Server, Database Design, T-SQL, and Git
 - 🎯 Primary Career Path: SQL Developer → Database Administrator (DBA) → Database Security
-- 🔄 Secondary Career Path: Data Engineering
-- 🌐 Third Career Path: Network & Communications
 
 ## Current Learning
 
