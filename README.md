@@ -1,45 +1,46 @@
 # Kim Anh Nguyen
 
-Information Technology student with a strong interest in database systems, database administration, and data management.
+Passionate about relational database architecture, data integrity, and performance. I focus on building robust database systems from the ground up through ERD modeling, schema normalization, and optimized T-SQL.
 
-## About Me
+---
 
-- 🎓 Information Technology Student, majoring in Network & Communications
-- 💻 Aspiring SQL Developer
-- 📚 Currently learning SQL Server, Database Design, T-SQL, and Git
-- 🎯 Primary Career Path: SQL Developer → Database Administrator (DBA) → Database Security
+## 📌 About Me
 
-## Current Learning
+- 💻 **Target Role:** Fresher SQL Developer
+- 🎯 **Career Path:** SQL Developer -> Database Administrator (DBA) -> Database Security
+- 🧠 **Mindset:** "Solid foundation first" — prioritizing business requirements, normalization, and constraints before query implementation.
 
-- SQL Server
-- SQL Server Management Studio (SSMS)
-- T-SQL
-- Database Design
-- Git & GitHub
+---
 
-## Future Interests
+## 🛠️ Technical Focus
 
-- Database Administration
-- Database Performance Tuning
-- Database Security
-- Data Engineering
-- Network & Communications
+- **RDBMS:** Microsoft SQL Server
+- **Database Design:** ERD Modeling, Schema Normalization (1NF–3NF), Constraints & Triggers
+- **Query & Development:** T-SQL (Stored Procedures, Views, Indexing), SSMS
+- **Version Control:** Git, GitHub
 
-## Featured Projects
+---
 
-Projects will be added here as I continue my learning journey.
+## 📂 Featured Projects
 
-## Publications
+*Real-world database design and optimization projects will be showcased here.*
 
-- **Energy Distance in Popular Filtering and Recommendation**
-Presented at **Smart Objects and Technologies for Social Good (GOODTECHS 2024)**, 2024.
-Co-author.
+- **[Coming Soon]** End-to-end Database Architecture: Business requirements, normalized ERD schema, and performance-tuned procedures.
 
-- **GraphSAGE In Skin Lesion Detection And Classification From Images**
-Presented at **THE 18th NATIONAL CONFERENCE ON FUNDAMENTAL AND APPLIED INFORMATION TECHNOLOGY RESEARCH**, 2025.
-Co-author.
+---
 
-## Contact
+## 📄 Publications
 
-- GitHub: https://github.com/kimanhsql
-- LinkedIn: https://www.linkedin.com/in/kimanhsql/
+- **Energy Distance in Popular Filtering and Recommendation**  
+  Presented at *Smart Objects and Technologies for Social Good (GOODTECHS 2024)*, 2024. *(Co-author)*
+
+- **GraphSAGE In Skin Lesion Detection And Classification From Images**  
+  Presented at *The 18th National Conference on Fundamental and Applied Information Technology Research*, 2025. *(Co-author)*
+
+---
+
+## 📬 Connect With Me
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/kimanhsql/
+- 🐙 **GitHub:** https://github.com/kimanhsql
+- ✉️ **Email:** nguyenkimanh.work@outlook.com
