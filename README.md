@@ -1,46 +1,43 @@
 # Kim Anh Nguyen
 
-Passionate about relational database architecture, data integrity, and performance. I focus on building robust database systems from the ground up through ERD modeling, schema normalization, and optimized T-SQL.
+> SQL Developer focusing on relational database architecture, schema normalization, and performance-tuned T-SQL.
 
 ---
 
-## 📌 About Me
+### Professional Profile
 
-- 💻 **Target Role:** Fresher SQL Developer
-- 🎯 **Career Path:** SQL Developer -> Database Administrator (DBA) -> Database Security
-- 🧠 **Mindset:** "Solid foundation first" — prioritizing business requirements, normalization, and constraints before query implementation.
-
----
-
-## 🛠️ Technical Focus
-
-- **RDBMS:** Microsoft SQL Server
-- **Database Design:** ERD Modeling, Schema Normalization (1NF–3NF), Constraints & Triggers
-- **Query & Development:** T-SQL (Stored Procedures, Views, Indexing), SSMS
-- **Version Control:** Git, GitHub
+- **Target Role:** SQL Developer.
+- **Career Path:** SQL Developer -> Database Administrator (DBA) -> Database Security.
+- **Key Principles:**
+  + Clean schema design & normalization (1NF–3NF).
+  + Data integrity & constraint enforcement.
+  + T-SQL query optimization & indexing.
 
 ---
 
-## 📂 Featured Projects
+### Technical Competencies
 
-*Real-world database design and optimization projects will be showcased here.*
-
-- **[Coming Soon]** End-to-end Database Architecture: Business requirements, normalized ERD schema, and performance-tuned procedures.
+| Domain | Skills & Technologies |
+| :--- | :--- |
+| **RDBMS & Tools** | Microsoft SQL Server, SSMS, Git, GitHub |
+| **Database Design** | ERD Modeling, Schema Normalization (1NF-3NF), Data Integrity (PK, FK, Constraints) |
+| **Database Programming** | T-SQL, Stored Procedures, Views, Triggers, User-Defined Functions |
+| **Performance Tuning** | Indexing Strategies, Execution Plan Analysis |
 
 ---
 
-## 📄 Publications
+### Academic Publications
 
 - **Energy Distance in Popular Filtering and Recommendation**  
-  Presented at *Smart Objects and Technologies for Social Good (GOODTECHS 2024)*, 2024. *(Co-author)*
+  Presented at *Smart Objects and Technologies for Social Good (GOODTECHS 2024)*, 2024. (Co-author)
 
 - **GraphSAGE In Skin Lesion Detection And Classification From Images**  
-  Presented at *The 18th National Conference on Fundamental and Applied Information Technology Research*, 2025. *(Co-author)*
+  Presented at *The 18th National Conference on Fundamental and Applied Information Technology Research*, 2025. (Co-author)
 
 ---
 
-## 📬 Connect With Me
+### Contact
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/kimanhsql/
-- 🐙 **GitHub:** https://github.com/kimanhsql
-- ✉️ **Email:** nguyenkimanh.work@outlook.com
+- **LinkedIn:** https://www.linkedin.com/in/kimanhsql/
+- **GitHub:** https://github.com/kimanhsql
+- **Email:** nguyenkimanh.work@outlook.com
